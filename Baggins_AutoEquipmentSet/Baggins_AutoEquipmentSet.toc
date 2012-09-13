@@ -1,0 +1,11 @@
+## Interface: 50001
+## Version: 0.4
+## Author: SinaC
+## Title: Baggins |cffffffffAuto Equipment Set|r
+## Credits: Nargiddley
+## Notes: Automatically create bags, sections and categories for wow built-in equipment set
+## URL: https://github.com/SinaC/Baggins_AutoEquipmentSet
+## RequiredDeps: Baggins
+## OptionalDeps: tekDebug
+
+Baggins_AutoEquipmentSet.lua
