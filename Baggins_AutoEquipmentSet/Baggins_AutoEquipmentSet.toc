@@ -1,5 +1,5 @@
-## Interface: 50100
-## Version: 0.5
+## Interface: 50200
+## Version: 0.6
 ## Author: SinaC
 ## Title: Baggins |cffffffffAuto Equipment Set|r
 ## Credits: Nargiddley
